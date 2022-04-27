@@ -1,0 +1,8 @@
+development:
+  password: shptka_623b4481c702f987ca5552906d5cca91
+  theme_id: "132456513762"
+  store: fellowship-test-store.myshopify.com
+production:
+  password: shptka_623b4481c702f987ca5552906d5cca91
+  theme_id: "132455137506"
+  store: fellowship-test-store.myshopify.com
